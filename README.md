@@ -1,2 +1,1 @@
-# rabinowitzMa
-Graphics class submodule
+# picmaker
